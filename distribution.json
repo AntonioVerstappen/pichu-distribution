@@ -310,6 +310,16 @@
                 "SHA1": "5a0c2d1a65a422bd0e64548e58b70f4d011ef788",
                 "url": "https://modloaders.forgecdn.net/647622546/maven/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.0/fmlearlydisplay-1.20.1-47.4.0.jar"
               }
+            },
+            {
+              "id": "1.20.1-forge-47.4.0",
+              "name": "Minecraft Forge (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 19645,
+                "MD5": "e7a80eb8bd28d6f96a03fd504004f7c6",
+                "url": "https://raw.githubusercontent.com/AntonioVerstappen/pichu-distribution/main/1.20.1-forge-47.4.0.json"
+              }
             }
           ]
         },
