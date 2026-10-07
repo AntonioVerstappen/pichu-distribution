@@ -405,9 +405,9 @@
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 23028853,
-                "MD5": "95f0c064ec0fa739613b993c92a68db4",
-                "url": "https://media.githubusercontent.com/media/AntonioVerstappen/pichu-distribution/main/libraries/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-universal.jar"
+                "size": 2776081,
+                "MD5": "f373b63ab9bfe53f7b35aaa425afa136",
+                "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-universal.jar"
               }
             }
           ],
