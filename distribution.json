@@ -2124,16 +2124,6 @@
           }
         },
         {
-          "id": "com.pichu:weather2-1.20.1-2.8.3.jar:1.0.0",
-          "name": "weather2-1.20.1-2.8.3.jar",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6852245,
-            "MD5": "c431d270fafa0f4ff138c36e44179ad2",
-            "url": "https://media.githubusercontent.com/media/AntonioVerstappen/pichu-distribution/main/mods/weather2-1.20.1-2.8.3.jar.disabled"
-          }
-        },
-        {
           "id": "com.pichu:WI-Zoom-1.5-MC1.20.1-Forge:1.0.0",
           "name": "WI-Zoom-1.5-MC1.20.1-Forge",
           "type": "ForgeMod",
