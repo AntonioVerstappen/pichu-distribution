@@ -346,8 +346,8 @@
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 19645,
-                "MD5": "e7a80eb8bd28d6f96a03fd504004f7c6",
+                "size": 19075,
+                "MD5": "c0f567fb846c4c5b363d32cf57757ca1",
                 "url": "https://raw.githubusercontent.com/AntonioVerstappen/pichu-distribution/main/1.20.1-forge-47.4.0.json"
               }
             }
