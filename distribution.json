@@ -319,7 +319,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4995865,
-            "MD5": null,
+            "MD5": "07c5b4516075755002d7af62eb4f8fdd",
             "url": "https://raw.githubusercontent.com/AntonioVerstappen/pichu-distribution/main/mods/%5B1.20.1%5D%20SecurityCraft%20v1.10.2.1.jar"
           }
         },
@@ -519,7 +519,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11839865,
-            "MD5": "278ad1a5f2fc534c91f434439d7e8d85",
+            "MD5": "3d89cd8da1d470208e0e5456727ac242",
             "url": "https://raw.githubusercontent.com/AntonioVerstappen/pichu-distribution/main/mods/born_in_chaos_%5BForge%5D1.20.1_1.7.5.jar"
           }
         },
