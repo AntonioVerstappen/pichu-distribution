@@ -13,6 +13,36 @@
       "autoconnect": true,
       "modules": [
         {
+          "id": "net.minecraft:client:1.20.1-20230612.114412:srg",
+          "name": "client-1.20.1-20230612.114412-srg.jar",
+          "type": "Library",
+          "artifact": {
+            "size": 18842082,
+            "MD5": "8bfacfba4f54cda741019756165c5ecf",
+            "url": "https://media.githubusercontent.com/media/AntonioVerstappen/pichu-distribution/main/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+          }
+        },
+        {
+          "id": "net.minecraft:client:1.20.1-20230612.114412:extra",
+          "name": "client-1.20.1-20230612.114412-extra.jar",
+          "type": "Library",
+          "artifact": {
+            "size": 10436626,
+            "MD5": "da6bb1a2c23108392fd6c103da40867c",
+            "url": "https://media.githubusercontent.com/media/AntonioVerstappen/pichu-distribution/main/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+          }
+        },
+        {
+          "id": "net.minecraftforge:forge:1.20.1-47.4.0:client",
+          "name": "forge-1.20.1-47.4.0-client.jar",
+          "type": "Library",
+          "artifact": {
+            "size": 4826828,
+            "MD5": "1940b09c4b066287963bde17aa375cec",
+            "url": "https://media.githubusercontent.com/media/AntonioVerstappen/pichu-distribution/main/libraries/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-client.jar"
+          }
+        },
+        {
           "id": "net.minecraftforge:forge:1.20.1-47.4.0",
           "name": "Minecraft Forge 1.20.1",
           "type": "ForgeHosted",
