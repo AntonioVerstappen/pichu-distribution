@@ -1,0 +1,108 @@
+{
+    "globalBookmarks": {
+        "armorer": [],
+        "butcher": [],
+        "cartographer": [],
+        "cleric": [],
+        "farmer": [],
+        "fisherman": [],
+        "fletcher": [
+            {
+                "resultItem": "minecraft:arrow",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "leatherworker": [],
+        "librarian": [
+            {
+                "resultItem": "minecraft:bookshelf",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:paper"
+            }
+        ],
+        "mason": [],
+        "shepherd": [],
+        "toolsmith": [],
+        "weaponsmith": [],
+        "nitwit": [],
+        "none": [],
+        "scribe": [],
+        "___+++___ wandering ___+++___": [
+            {
+                "resultItem": "alexsmobs:sombrero",
+                "priceItem1": "minecraft:emerald",
+                "resultItemNBT": "{Damage:0}"
+            }
+        ]
+    },
+    "localBookmarks": {
+        "cdc29445-7647-407a-b918-6b4ff6fe769e": [
+            {
+                "resultItem": "minecraft:flint",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:gravel"
+            }
+        ],
+        "3f04e7c0-e111-496e-9552-dafdec1b7412": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{StoredEnchantments:[{id:\"minecraft:sweeping\",lvl:3s}]}"
+            },
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{StoredEnchantments:[{id:\"minecraft:sweeping\",lvl:1s}]}"
+            },
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{StoredEnchantments:[{id:\"minecraft:knockback\",lvl:1s}]}"
+            }
+        ]
+    },
+    "globalBookmarks1": {
+        "armorer": [],
+        "butcher": [],
+        "cartographer": [],
+        "cleric": [],
+        "farmer": [],
+        "fisherman": [],
+        "fletcher": [],
+        "leatherworker": [],
+        "librarian": [],
+        "mason": [],
+        "shepherd": [],
+        "toolsmith": [],
+        "weaponsmith": [],
+        "nitwit": [],
+        "none": [],
+        "scribe": [],
+        "___+++___ wandering ___+++___": []
+    },
+    "globalBookmarks2": {
+        "armorer": [],
+        "butcher": [],
+        "cartographer": [],
+        "cleric": [],
+        "farmer": [],
+        "fisherman": [],
+        "fletcher": [],
+        "leatherworker": [],
+        "librarian": [],
+        "mason": [],
+        "shepherd": [],
+        "toolsmith": [],
+        "weaponsmith": [],
+        "nitwit": [],
+        "none": [],
+        "scribe": [],
+        "___+++___ wandering ___+++___": []
+    }
+}
